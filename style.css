@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-cnt {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #78B9B5;
+}
+
+.main-cnt .time {
+    font-size: 60px;
+}
+
+.main-cnt .time span {
+    box-shadow: -5px -5px 20px 2px black;
+}
+
+span {
+    padding: 5px;
+    border-radius: 10px;
+}
