@@ -34,7 +34,7 @@ This project focuses on working with real-time data and updating the UI dynamica
 1. Clone the repository:
 
    ```
-   git clone https://github.com/jatin-kesharwani5/digital-clock-js.git
+   git clone https://github.com/jatin-kesharwani5/javascript-digital-clock.git
    ```
 
 2. Open index.html in your browser
